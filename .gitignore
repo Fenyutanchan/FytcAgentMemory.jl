@@ -1,0 +1,16 @@
+# Julia package manifests are machine-specific resolution artifacts and are
+# not tracked for library packages.
+Manifest.toml
+**/Manifest.toml
+
+# Julia compiled / coverage / profiling output
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/docs/build/
+/docs/site/
+
+# Editor / OS noise
+.DS_Store
+.vscode/
+*.swp
