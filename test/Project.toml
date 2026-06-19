@@ -1,0 +1,9 @@
+[deps]
+Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
+FytcAgentBase = "e264e23d-ef72-48fd-9d64-804c4d95835d"
+FytcAgentMemory = "d467ec0f-d29e-472f-b8a5-f821b332831e"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Aqua = "0.8"
+Test = "1.10"
